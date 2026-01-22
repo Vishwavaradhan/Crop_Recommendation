@@ -14,8 +14,6 @@ env/
 # OS files
 .DS_Store
 
-# Model files (optional - but recommended)
-*.pkl
 
 # Environment variables
 .env
